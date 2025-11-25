@@ -1,4 +1,4 @@
 # proyecto_mate_audioo
 audio hz
-# librearias que utilazeremos 
+## librerias que vamos a usar    
 ## pip install numpy matplotlib sounddevice
